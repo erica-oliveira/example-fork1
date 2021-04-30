@@ -1,2 +1,3 @@
 Teste de fork file 1
 Add nova linha  
+Mudança para gerar merge
